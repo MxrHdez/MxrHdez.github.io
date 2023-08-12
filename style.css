@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee&display=swap'");
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=Alata&display=swap");
+
+.tipo1 {
+  font-weight: bold;
+  font-size: 36px;
+  font-family: "Comfortaa", sans-serif;
+  color: rgb(234,234,234);
+}
+
+.tipo2 {
+  font-weight: bold;
+  font-size: 26px;
+  font-family: "ABeeZee", sans-serif;
+  color: rgb(178,139,52);
+}
+
+.tipo2-1 {
+  font-weight: bold;
+  font-size: 26px;
+  font-family: "ABeeZee", sans-serif;
+  color: rgb(5,5,4);
+}
+
+.tipo3 {
+  font-size: 22px;
+  font-family: "ABeeZee", sans-serif;
+  color: rgb(178,139,52);
+}
+
+.tipo3-1 {
+  font-weight: bold;
+  font-size: 22px;
+  font-family: "ABeeZee", sans-serif;
+  color: rgb(5,5,4);
+}
+
+.tipo4 {
+  font-size: 18px;
+  font-family: "ABeeZee", sans-serif;
+  color: rgb(5,5,4);
+}
+
+.tipo5 {
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "Alata", sans-serif;
+  color: rgb(5,5,4);
+}
+
+.tipoc1 {
+  font-weight: bold;
+  font-size: 28px;
+  font-family: "ABeeZee", sans-serif;
+  color: rgb(5,5,4);
+}
+
+.tipoc2 {
+  font-weight: bold;
+  font-size: 22px;
+  font-family: "ABeeZee", sans-serif;
+  color: rgb(5,5,4);
+  background-color: rgb(178,139,52);
+  border-radius: 1em;
+}
+
+.boton {
+  font-size: 14px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Alata", sans-serif;
+  background-color: rgb(5,5,4);
+  color: rgb(178,139,52);
+}
+
+.circulo {
+  width: 80px;
+  height: 80px;
+  border-radius: 70%;
+}
+
+.carrusel {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  justify-content: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10%;
+}
+
+nav {
+  background-color: rgb(178,139,52);
+  position: relative;
+}
+
+body {
+  background-color: rgb(5,5,4);
+  position: relative;
+}
+
+main {
+  background-color: rgb(5,5,4);
+}
+
+.contenedor { 
+  background-color: rgb(5,5,4);
+  flex-direction: row;
+  display: flex;
+  justify-content: space-around;
+  margin: 10%;
+  position: relative;
+}
+
+.card {
+  background-color: rgb(178,139,52);
+  border-radius: 30px;
+  justify-content: center;
+}
+
+.card2 {
+  background-color: rgb(234,234,234);
+  border-radius: 30px;
+  justify-content: center;
+}
+
+footer {
+  background-color: rgb(178,139,52);
+}
